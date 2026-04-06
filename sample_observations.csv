@@ -1,0 +1,6 @@
+tile_id,ndvi,ndvi_baseline,soil_moisture,soil_moisture_baseline,et_proxy,cloud_fraction,power_available_w,bandwidth_state
+A01,0.42,0.68,0.18,0.33,0.72,0.08,11.5,normal
+A02,0.55,0.61,0.24,0.29,0.31,0.12,9.2,constrained
+A03,0.71,0.73,0.36,0.37,0.10,0.05,12.0,normal
+A04,0.39,0.65,0.17,0.31,0.80,0.20,5.8,low
+A05,0.48,0.66,0.21,0.34,0.54,0.42,8.5,constrained

@@ -1,0 +1,22 @@
+{
+  "system": "AAIL-EO software demonstration",
+  "description": "Adaptive sensing and onboard prioritization simulation for regenerative agriculture use cases.",
+  "transmit_queue": [
+    {
+      "tile_id": "A01",
+      "event_label": "high_stress",
+      "severity": 0.279,
+      "confidence": 0.92,
+      "mission_mode": "nominal",
+      "recommended_action": "continue_nominal_scan",
+      "downlink_priority": 2,
+      "reasoning": {
+        "ndvi_drop": 0.26,
+        "moisture_drop": 0.15,
+        "et_stress": 0.72,
+        "bandwidth_state": "normal",
+        "power_available_w": 11.5
+      }
+    }
+  ]
+}
